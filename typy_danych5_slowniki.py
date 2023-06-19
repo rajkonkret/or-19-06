@@ -34,3 +34,4 @@ print(dictionary)  # {'x': 2, 'y': 3, 'z': 0}
 a = int(input("Podaj pierwwsza liczbe"))
 b = int(input("Podaj druga liczbe"))
 print(a + b)
+# 15:25
