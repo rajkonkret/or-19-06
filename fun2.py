@@ -18,3 +18,4 @@ print(zm)
 
 if zm == 1230:
     print("Prawidłowowo")
+# 15:00
