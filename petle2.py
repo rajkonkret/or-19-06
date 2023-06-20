@@ -32,6 +32,7 @@ print({value: key for key, value in dictionary2.items()})
 
 d2 = {}
 for k, v in dictionary2.items():
-    d2[v] = k # zamiana miejscami klucza z wartoscią
+    d2[v] = k  # zamiana miejscami klucza z wartoscią
 print(d2)
 # {'imie': 'name', 'Orange': 'company'}
+# 11:20
