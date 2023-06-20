@@ -15,3 +15,4 @@ print(type(data.values[0]))  # <class 'numpy.ndarray'>
 print(data.items)
 # <bound method DataFrame.items of     name branch  year  cgpa
 # 0  Radek    COE     2   9.1>
+# 13:30
