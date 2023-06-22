@@ -23,3 +23,4 @@ def generateXML(filename):
 
 generateXML("Catalog.xml")
 # <Catalog><mobile><brand>Redmi</brand><price>6999</price></mobile><mobile /></Catalog>
+# https://www.hackerrank.com/dashboard
