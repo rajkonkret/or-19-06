@@ -1,0 +1,362 @@
+Year,Subject,avg_popularity
+1920,Drama,Niszowy
+1923,Western,Niszowy
+1924,Drama,Bardzo popularny
+1925,Drama,Bardzo popularny
+1926,Action,Niszowy
+1926,Drama,Bardzo popularny
+1926,Mystery,Bardzo popularny
+1926,Science Fiction,Niszowy
+1927,Drama,Niszowy
+1927,Mystery,Niszowy
+1928,Drama,Niszowy
+1928,War,Niszowy
+1929,Drama,Niszowy
+1929,Mystery,Niszowy
+1930,Drama,Niszowy
+1930,Mystery,Niszowy
+1931,Comedy,Bardzo popularny
+1931,Drama,Bardzo popularny
+1931,Western,Niszowy
+1932,Action,Niszowy
+1932,Crime,Bardzo popularny
+1932,Drama,Bardzo popularny
+1932,Horror,Bardzo popularny
+1932,Western,Niszowy
+1933,Drama,Niszowy
+1934,Drama,Niszowy
+1934,Western,Niszowy
+1935,Comedy,Bardzo popularny
+1935,Drama,Bardzo popularny
+1935,Horror,Niszowy
+1935,Mystery,Bardzo popularny
+1935,Science Fiction,Niszowy
+1935,Western,Bardzo popularny
+1936,Comedy,Niszowy
+1936,Drama,Bardzo popularny
+1936,Mystery,Bardzo popularny
+1937,Comedy,Niszowy
+1937,Drama,Niszowy
+1937,Mystery,Niszowy
+1937,Western,Niszowy
+1938,Drama,Niszowy
+1938,Mystery,Niszowy
+1938,Western,Niszowy
+1939,Action,Niszowy
+1939,Comedy,Niszowy
+1939,Drama,Niszowy
+1939,Western,Niszowy
+1940,Action,Niszowy
+1940,Drama,Niszowy
+1940,Mystery,Bardzo popularny
+1940,Western,Niszowy
+1941,Comedy,Niszowy
+1941,Drama,Niszowy
+1941,Western,Bardzo popularny
+1942,Action,Bardzo popularny
+1942,Drama,Niszowy
+1942,War,Bardzo popularny
+1943,Action,Bardzo popularny
+1943,Drama,Niszowy
+1943,Horror,Bardzo popularny
+1943,Mystery,Bardzo popularny
+1943,Western,Niszowy
+1944,Drama,Niszowy
+1944,War,Niszowy
+1945,Drama,Niszowy
+1945,War,Bardzo popularny
+1945,Western,Niszowy
+1946,Drama,Niszowy
+1946,Mystery,Niszowy
+1946,Western,Niszowy
+1947,Comedy,Niszowy
+1947,Drama,Niszowy
+1947,Western,Niszowy
+1948,Comedy,Niszowy
+1948,Drama,Niszowy
+1948,Mystery,Niszowy
+1948,Western,Niszowy
+1949,Action,Bardzo popularny
+1949,Drama,Bardzo popularny
+1949,War,Niszowy
+1949,Western,Niszowy
+1950,Action,Bardzo popularny
+1950,Comedy,Niszowy
+1950,Drama,Niszowy
+1950,Mystery,Bardzo popularny
+1950,Western,Niszowy
+1951,Action,Niszowy
+1951,Drama,Niszowy
+1951,Mystery,Niszowy
+1951,War,Niszowy
+1952,Comedy,Niszowy
+1952,Drama,Niszowy
+1952,War,Niszowy
+1952,Western,Niszowy
+1953,Action,Niszowy
+1953,Comedy,Bardzo popularny
+1953,Drama,Niszowy
+1953,Horror,Niszowy
+1953,Music,Bardzo popularny
+1954,Action,Niszowy
+1954,Comedy,Niszowy
+1954,Drama,Niszowy
+1954,Mystery,Niszowy
+1954,Short,Bardzo popularny
+1954,Western,Bardzo popularny
+1955,Comedy,Niszowy
+1955,Drama,Niszowy
+1955,Mystery,Niszowy
+1955,War,Niszowy
+1956,Action,Niszowy
+1956,Comedy,Niszowy
+1956,Drama,Niszowy
+1956,Horror,Bardzo popularny
+1956,Mystery,Niszowy
+1956,War,Bardzo popularny
+1956,Western,Niszowy
+1957,Action,Bardzo popularny
+1957,Comedy,Niszowy
+1957,Drama,Niszowy
+1957,Western,Niszowy
+1958,Action,Niszowy
+1958,Comedy,Niszowy
+1958,Drama,Niszowy
+1958,Science Fiction,Niszowy
+1958,War,Niszowy
+1959,Action,Niszowy
+1959,Comedy,Niszowy
+1959,Drama,Niszowy
+1959,Western,Niszowy
+1960,Action,Niszowy
+1960,Drama,Niszowy
+1960,Horror,Niszowy
+1960,Science Fiction,Bardzo popularny
+1960,Western,Niszowy
+1961,Action,Niszowy
+1961,Comedy,Niszowy
+1961,Drama,Niszowy
+1961,Music,Niszowy
+1961,Western,Niszowy
+1962,Action,Niszowy
+1962,Comedy,Niszowy
+1962,Drama,Niszowy
+1962,Mystery,Niszowy
+1962,War,Niszowy
+1962,Western,Bardzo popularny
+1963,Comedy,Niszowy
+1963,Drama,Niszowy
+1963,Horror,Bardzo popularny
+1963,Science Fiction,Bardzo popularny
+1964,Action,Niszowy
+1964,Comedy,Niszowy
+1964,Drama,Niszowy
+1964,Music,Niszowy
+1964,Science Fiction,Niszowy
+1964,Westerns,Bardzo popularny
+1965,Comedy,Bardzo popularny
+1965,Drama,Niszowy
+1965,Music,Niszowy
+1965,Mystery,Bardzo popularny
+1965,War,Bardzo popularny
+1966,Action,Bardzo popularny
+1966,Comedy,Niszowy
+1966,Drama,Niszowy
+1966,Mystery,Niszowy
+1966,War,Bardzo popularny
+1966,Western,Niszowy
+1967,Action,Niszowy
+1967,Comedy,Niszowy
+1967,Drama,Niszowy
+1967,Western,Niszowy
+1968,Action,Niszowy
+1968,Comedy,Niszowy
+1968,Drama,Niszowy
+1968,Music,Niszowy
+1968,Science Fiction,Bardzo popularny
+1968,War,Niszowy
+1968,Western,Niszowy
+1968,Westerns,Niszowy
+1969,Action,Niszowy
+1969,Comedy,Bardzo popularny
+1969,Drama,Niszowy
+1969,Music,Niszowy
+1969,Mystery,Niszowy
+1969,Western,Niszowy
+1970,Action,Niszowy
+1970,Comedy,Niszowy
+1970,Drama,Niszowy
+1970,Music,Bardzo popularny
+1970,War,Niszowy
+1970,Western,Niszowy
+1971,Action,Niszowy
+1971,Comedy,Bardzo popularny
+1971,Drama,Niszowy
+1971,Music,Niszowy
+1971,Mystery,Niszowy
+1971,Science Fiction,Bardzo popularny
+1971,Western,Bardzo popularny
+1972,Action,Niszowy
+1972,Comedy,Niszowy
+1972,Drama,Niszowy
+1972,War,Niszowy
+1972,Western,Niszowy
+1973,Action,Niszowy
+1973,Comedy,Niszowy
+1973,Drama,Niszowy
+1973,Horror,Niszowy
+1973,Music,Niszowy
+1973,Mystery,Niszowy
+1973,Western,Niszowy
+1974,Action,Bardzo popularny
+1974,Adventure,Bardzo popularny
+1974,Comedy,Niszowy
+1974,Drama,Niszowy
+1974,Music,Niszowy
+1974,Mystery,Niszowy
+1974,Science Fiction,Niszowy
+1975,Action,Niszowy
+1975,Comedy,Bardzo popularny
+1975,Drama,Niszowy
+1975,Horror,Niszowy
+1975,Music,Niszowy
+1975,Western,Bardzo popularny
+1976,Action,Niszowy
+1976,Comedy,Niszowy
+1976,Drama,Niszowy
+1976,Horror,Bardzo popularny
+1976,War,Niszowy
+1977,Action,Niszowy
+1977,Comedy,Niszowy
+1977,Drama,Niszowy
+1977,Horror,Niszowy
+1977,Music,Bardzo popularny
+1977,Mystery,Niszowy
+1977,Science Fiction,Niszowy
+1977,War,Niszowy
+1978,Action,Niszowy
+1978,Comedy,Niszowy
+1978,Drama,Niszowy
+1978,Horror,Niszowy
+1978,Mystery,Niszowy
+1978,Science Fiction,Bardzo popularny
+1978,War,Bardzo popularny
+1979,Action,Niszowy
+1979,Comedy,Niszowy
+1979,Drama,Niszowy
+1979,Horror,Niszowy
+1979,Music,Niszowy
+1979,Mystery,Niszowy
+1979,Science Fiction,Bardzo popularny
+1979,Western,Bardzo popularny
+1980,Action,Niszowy
+1980,Comedy,Niszowy
+1980,Drama,Niszowy
+1980,Horror,Niszowy
+1980,Mystery,Bardzo popularny
+1980,Science Fiction,Niszowy
+1980,Westerns,Niszowy
+1981,Action,Bardzo popularny
+1981,Comedy,Niszowy
+1981,Drama,Niszowy
+1981,Horror,Niszowy
+1981,Mystery,Niszowy
+1981,Science Fiction,Niszowy
+1982,Action,Niszowy
+1982,Comedy,Niszowy
+1982,Drama,Niszowy
+1982,Horror,Bardzo popularny
+1982,Music,Bardzo popularny
+1982,Science Fiction,Niszowy
+1983,Action,Niszowy
+1983,Comedy,Niszowy
+1983,Drama,Niszowy
+1983,Horror,Niszowy
+1983,Music,Niszowy
+1983,Mystery,Niszowy
+1983,Science Fiction,Niszowy
+1984,Action,Niszowy
+1984,Comedy,Niszowy
+1984,Drama,Niszowy
+1984,Music,Niszowy
+1984,Science Fiction,Bardzo popularny
+1985,Action,Niszowy
+1985,Adventure,Bardzo popularny
+1985,Comedy,Niszowy
+1985,Drama,Niszowy
+1985,Music,Bardzo popularny
+1985,Mystery,Niszowy
+1985,Science Fiction,Niszowy
+1985,Western,Niszowy
+1986,Action,Niszowy
+1986,Comedy,Niszowy
+1986,Drama,Niszowy
+1986,Horror,Niszowy
+1986,Music,Niszowy
+1986,Mystery,Niszowy
+1986,Science Fiction,Niszowy
+1986,War,Bardzo popularny
+1987,Action,Niszowy
+1987,Comedy,Niszowy
+1987,Drama,Niszowy
+1987,Fantasy,Niszowy
+1987,Horror,Niszowy
+1987,Music,Bardzo popularny
+1987,Mystery,Niszowy
+1987,Science Fiction,Niszowy
+1987,War,Niszowy
+1987,Western,Niszowy
+1988,Action,Niszowy
+1988,Comedy,Niszowy
+1988,Drama,Niszowy
+1988,Horror,Bardzo popularny
+1988,Music,Bardzo popularny
+1988,Mystery,Niszowy
+1988,Romance,Bardzo popularny
+1988,Science Fiction,Bardzo popularny
+1989,Action,Niszowy
+1989,Comedy,Niszowy
+1989,Drama,Niszowy
+1989,Horror,Niszowy
+1989,Music,Niszowy
+1989,Mystery,Niszowy
+1989,Science Fiction,Niszowy
+1989,War,Niszowy
+1989,Western,Niszowy
+1990,Action,Niszowy
+1990,Adventure,Bardzo popularny
+1990,Comedy,Niszowy
+1990,Drama,Niszowy
+1990,Horror,Niszowy
+1990,Music,Niszowy
+1990,Mystery,Niszowy
+1990,Science Fiction,Niszowy
+1990,Western,Niszowy
+1991,Action,Niszowy
+1991,Comedy,Niszowy
+1991,Drama,Niszowy
+1991,Horror,Niszowy
+1991,Music,Niszowy
+1991,Mystery,Niszowy
+1991,Science Fiction,Niszowy
+1991,War,Niszowy
+1991,Western,Niszowy
+1991,Westerns,Niszowy
+1992,Action,Niszowy
+1992,Adventure,Niszowy
+1992,Comedy,Niszowy
+1992,Drama,Niszowy
+1992,Music,Niszowy
+1992,Mystery,Niszowy
+1992,Science Fiction,Niszowy
+1992,War,Niszowy
+1992,Western,Niszowy
+1992,Westerns,Bardzo popularny
+1993,Action,Niszowy
+1993,Comedy,Niszowy
+1993,Drama,Niszowy
+1993,Music,Niszowy
+1993,Mystery,Niszowy
+1993,Western,Bardzo popularny
+1996,Horror,Niszowy
+1997,Science Fiction,Niszowy
