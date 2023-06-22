@@ -33,7 +33,7 @@ print(f"Wartości absolutne {absolute}")  # Wartości absolutne [1, 2, 3, 4, 5]
 word = "Pyton"
 letters = [letter for letter in word]
 print(f"Literki: {letters}")
-Literki: ['P', 'y', 't', 'o', 'n']
+# Literki: ['P', 'y', 't', 'o', 'n']
 
 lista1 = [word]
 print(type(lista1))
