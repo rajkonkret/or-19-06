@@ -42,3 +42,4 @@ class Sklep:
 okno = tk.Tk()
 sklep = Sklep(okno)
 okno.mainloop()
+# 13:30
