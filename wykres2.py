@@ -10,4 +10,5 @@ plt.ylabel("Częstość")
 
 plt.savefig('wykres.png')  # zapisanie wykresu do pliku png
 plt.savefig('wykres.pdf')  # zapisanie wykresu do pliku pdf
+
 plt.show()
